@@ -1,5 +1,5 @@
 {
-	"name": "Code - OSS",
+	"name": "my-project-devcontainer",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
@@ -50,4 +50,5 @@
 	"hostRequirements": {
 		"memory": "9gb"
 	}
+	
 }
